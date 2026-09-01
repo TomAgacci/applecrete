@@ -5,6 +5,7 @@ APPLE PULP • HYDRATED LIME • SAND • PARALLEL SALT BLEND
 
 I - Making Apple Juice and The Pulp
 II - Making the Apple Crete From The Pulp
+III - Mold resistant formula
 
 The crete is slated to be able to support 4mpa blocks.
 
@@ -312,3 +313,83 @@ STRUCTURAL NOTE:
 ======================================================<br>
 END OF SOP v0.4 — PULP-CRETE FOR ~4 MPa<br>
 ======================================================<br>
+
+======================================================<br>
+III - Mold Resistant Formula
+======================================================<br>
+
+PULP-CRETE v0.5 — MOLD-RESISTANT FORMULA
+APPLE PULP • HYDRATED LIME • SAND • PARALLEL SALT BLEND • OPTIONAL SEALER
+
+GOAL:
+- ~4 MPa compressive strength (non-structural).
+- Strong resistance to mold from moisture.
+
+RATIOS (BY MASS):
+- Fine sand (0–2 mm):          4.5 parts
+- Hydrated lime:               2.5 parts
+- Apple pulp (extra-dried):    0.7 parts
+- Parallel salt blend:         0.20 parts
+- Water:                       1.5–2.0 parts (tuned to workability)
+
+PARALLEL SALT BLEND (BY MASS):
+- NaCl:                        2 parts
+- CaCl₂:                       1 part
+- NaHCO₃:                      1 part
+
+EXAMPLE (1 part = 1 kg):
+- Sand:        4.5 kg
+- Lime:        2.5 kg
+- Pulp:        0.7 kg
+- Salt blend:  0.20 kg
+- Water:       1.5–2.0 kg
+
+APPLE PULP PREP (MOLD-RESISTANT):
+1. Spread pulp very thin (3–5 mm) on trays.
+2. Air-dry 24–48 h; optionally use a fan.
+3. Target: feels hard and dry; no flexibility; no free water.
+4. Break into 2–8 mm granules; avoid dust.
+5. Store in breathable container (paper bag, mesh).
+
+SALT BLEND PREP:
+1. Mix NaCl, CaCl₂, NaHCO₃ dry to uniform.
+2. Keep sealed and dry (CaCl₂ is hygroscopic).
+
+DRY MIX:
+1. Combine sand + lime; mix to uniform.
+2. Add salt blend; mix again.
+3. Add dried pulp granules; fold until coated.
+
+HYDRATION:
+1. Add water gradually (start near 1.5 parts).
+2. Aim for stiff, cohesive mix:
+   - Holds shape when squeezed.
+   - Slight sheen, no pooling water.
+
+CASTING:
+1. Fill molds in 2–3 lifts.
+2. Lightly tamp each lift; avoid over-compaction.
+3. Strike off top; optional trowel.
+
+CURING (MOLD-RESISTANT REGIME):
+Phase 1 (0–24 h):
+- Covered, shaded, ventilated; avoid rapid drying.
+
+Phase 2 (Day 1–7):
+- Demold when firm.
+- Store with good airflow; moderate humidity.
+- No soaking; no trapped water.
+
+Phase 3 (Day 7–28):
+- Dry, ventilated environment.
+- Rotate pieces occasionally.
+
+OPTIONAL SEALER (AFTER 28+ DAYS):
+- Apply breathable mineral/silicate sealer to all faces.
+- Goal: block liquid water, allow CO₂ for carbonation.
+
+SAFETY:
+- Gloves, mask, eye protection.
+- Avoid dust inhalation.
+- Not for structural load-bearing use.
+
