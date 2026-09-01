@@ -10,9 +10,9 @@ The crete is slated to be able to support 4mpa blocks.
 
 Notes Making the Crete and Apple Preparation
 
-======================================================
-I - Making The Apple Juice and The Pulp
-======================================================
+======================================================<br>
+I - Making The Apple Juice and The Pulp<br>
+======================================================<br>
 
 
 RAW APPLE JUICE — NO HEAT, NO WATER
@@ -40,13 +40,13 @@ Output:
 - Crisp, bright flavor
 - Naturally cloudy unless double-filtered
 
-======================================================
-II - Making the Apple Crete From The Pulp
-======================================================
+======================================================<br>
+II - Making the Apple Crete From The Pulp<br>
+======================================================<br>
 
-======================================================
-1. TARGET & GENERAL NOTES
-======================================================
+======================================================<br>
+1. TARGET & GENERAL NOTES<br>
+======================================================<br>
 TARGET:
 - Compressive strength: ~4 MPa at 28 days.
 - Application: non-structural blocks/panels, insulation, experimental biocomposite.
