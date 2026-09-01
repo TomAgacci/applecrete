@@ -44,9 +44,8 @@ Output:
 II - Making the Apple Crete From The Pulp<br>
 ======================================================<br>
 
-======================================================<br>
-1. TARGET & GENERAL NOTES<br>
-======================================================<br>
+======================================================<br>1. TARGET & GENERAL NOTES<br>======================================================<br>
+
 TARGET:
 - Compressive strength: ~4 MPa at 28 days.
 - Application: non-structural blocks/panels, insulation, experimental biocomposite.
