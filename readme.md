@@ -63,9 +63,9 @@ ENVIRONMENTAL CONDITIONS (IDEAL):
 - Relative humidity: 40–70%.
 - No direct sun, no rain exposure during early cure.
 
-======================================================
-2. MATERIALS & EXAMPLE BATCH
-======================================================
+======================================================<br>
+2. MATERIALS & EXAMPLE BATCH<br>
+======================================================<br>
 BASE RATIOS (BY MASS):
 - Fine sand (0–2 mm):          4.0 parts
 - Hydrated lime (builder’s):   2.0 parts
@@ -92,9 +92,9 @@ Example for 150 g salt blend:
 - CaCl₂:  37.5 g
 - NaHCO₃: 37.5 g
 
-======================================================
-3. APPLE PULP PREPARATION
-======================================================
+======================================================<br>
+3. APPLE PULP PREPARATION<br>
+======================================================<br>
 SOURCE:
 - Use the solid residue from your raw apple juice filtration (coffee filters).
 
@@ -123,9 +123,9 @@ STEPS:
    - Store in a breathable container (paper bag or mesh) until use.
    - Avoid sealed wet storage (mold risk).
 
-======================================================
-4. PARALLEL SALT BLEND PREPARATION
-======================================================
+======================================================<br>
+4. PARALLEL SALT BLEND PREPARATION<br>
+======================================================<br>
 STEPS:
 1. DRY MIX
    - In a dry container, combine:
@@ -142,9 +142,9 @@ STEPS:
    - Keep sealed and dry.
    - Hygroscopic behavior (especially CaCl₂) will pull moisture if left open.
 
-======================================================
-5. DRY MIXING PROCEDURE
-======================================================
+======================================================<br>
+5. DRY MIXING PROCEDURE<br>
+======================================================<br>
 EQUIPMENT:
 - Mixing tub or mortar mixer.
 - Scoop or trowel.
@@ -165,9 +165,9 @@ STEPS:
    - Mix another 2–3 minutes.
    - Goal: no visible pockets of salt or lime.
 
-======================================================
-6. ADDING APPLE PULP
-======================================================
+======================================================<br>
+6. ADDING APPLE PULP<br>
+======================================================<br>
 STEPS:
 1. ADD PULP
    - Add 1.0 kg of prepared apple pulp granules to the dry mix.
@@ -182,9 +182,9 @@ STEPS:
      - Mineral matrix with visible organic inclusions.
      - No large uncoated pulp clusters.
 
-======================================================
-7. HYDRATION & WORKABILITY
-======================================================
+======================================================<br>
+7. HYDRATION & WORKABILITY<br>
+======================================================<br>
 STEPS:
 1. INITIAL WATER ADDITION
    - Add ~1.5 kg water gradually while mixing.
@@ -208,9 +208,9 @@ STEPS:
    - Record final water mass used.
    - Note ambient temperature and humidity for future comparison.
 
-======================================================
-8. CASTING INTO MOLDS
-======================================================
+======================================================<br>
+8. CASTING INTO MOLDS<br>
+======================================================<br>
 MOLD TYPE:
 - 50 mm cubes or cylinders (e.g., 50×100 mm) for compressive tests.
 - Larger blocks/panels for practical evaluation.
@@ -232,9 +232,9 @@ STEPS:
    - Strike off the top flush with mold edges.
    - Optionally trowel smooth or leave slightly textured.
 
-======================================================
-9. CURING REGIME (CRITICAL FOR STRENGTH)
-======================================================
+======================================================<br>
+9. CURING REGIME (CRITICAL FOR STRENGTH)<br>
+======================================================<br>
 PHASE 1 — INITIAL SET (0–24 HOURS):
 - Keep molds in a shaded, ventilated area.
 - Cover loosely with plastic or damp cloth to prevent rapid surface drying.
@@ -257,9 +257,9 @@ NOTES:
 - Temperature swings and very low humidity can reduce strength.
 - High humidity with poor ventilation can increase mold risk on pulp.
 
-======================================================
-10. TESTING & ADJUSTMENT FOR 4 MPa
-======================================================
+======================================================<br>
+10. TESTING & ADJUSTMENT FOR 4 MPa<br>
+======================================================<br>
 TESTING:
 - At 7 days:
   - Perform preliminary compressive tests (expect <4 MPa).
@@ -289,9 +289,9 @@ ADJUSTMENT RULES:
   - Reduce salt blend to 0.10 parts.
   - Maintain other ratios.
 
-======================================================
-11. SAFETY & LONG-TERM BEHAVIOR
-======================================================
+======================================================<br>
+11. SAFETY & LONG-TERM BEHAVIOR<br>
+======================================================<br>
 SAFETY:
 - Wear gloves, mask, and eye protection when handling lime, sand, and salts.
 - Avoid inhaling dust.
@@ -309,6 +309,6 @@ STRUCTURAL NOTE:
 - Do NOT use for load-bearing structural elements.
 - Treat as experimental biocomposite until fully characterized.
 
-======================================================
-END OF SOP v0.4 — PULP-CRETE FOR ~4 MPa
-======================================================
+======================================================<br>
+END OF SOP v0.4 — PULP-CRETE FOR ~4 MPa<br>
+======================================================<br>
